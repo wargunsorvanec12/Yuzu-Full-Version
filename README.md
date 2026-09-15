@@ -249,4 +249,4 @@ This repository serves as the official landing page for yuzu. The software is di
 **Get the most recent version of yuzu today!**
 
 ---
-**Last updated:** 2026-09-15 11:03:48 UTC
+**Last updated:** 2026-09-15 16:14:14 UTC
